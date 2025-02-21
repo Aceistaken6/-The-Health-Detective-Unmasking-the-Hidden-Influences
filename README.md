@@ -8,6 +8,8 @@ Challenge: Develop an interactive Health Detective Dashboard in Power BI that en
 Team Members
 Shubham Kansal
 
+Arnav Gupta
+
 Kaushik Bhattacharya
 
 Parth Shukla
